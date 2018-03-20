@@ -15,7 +15,7 @@
 - 安装[Scala-2.11.11](http://www.scala-lang.org/download/2.11.11.html),并设置[环境变量](http://www.runoob.com/scala/scala-install.html)
 - 安装IntelliJ IDEA
 - 下载此项目源码
-  - `git clone https://github.com/Claymoreterasa/xdu-cloudcourse-spark.git`
+  - `git clone https://github.com/Claymoreterasa/spark-learn.git`
   - [打包下载ZIP](https://github.com/Claymoreterasa/spark-learn/archive/master.zip)
 
 ## 导入项目
